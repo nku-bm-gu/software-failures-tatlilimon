@@ -102,20 +102,17 @@ Genellemek gerekirse, yazılım başarısızlığı yazılım geliştirmede öne
 
 http://www.innovation-portal.info/wp-content/uploads/Apple-vs-Android-Case.pdf
 
-https://static1.squarespace.com/static/57c8faea8419c2bf60a96fc3/t/59a1e771e3df28ce227053bc/1503782771124/MLM\_ADV\_1209f.pdf
 https://static1.squarespace.com/static/57c8faea8419c2bf60a96fc3/t/59a1e771e3df28ce227053bc/1503782771124/MLM_ADV_1209f.pdf
 
 https://discussions.apple.com
 
 https://archive.nytimes.com/bits.blogs.nytimes.com/2012/11/27/apple-fires-maps-manager
-https://archive.nytimes.com/bits.blogs.nytimes.com/2012/11/27/apple-fires-maps-manager/
 
 https://www.theguardian.com/technology/blog/2012/oct/01/apple-30-billion-maps-mistake
 
 https://www.iculture.nl/nieuws/ios-6-uitgelicht-apple-maps-kaartendienst-met-grote-nederlandse-invloed/
 
 https://www.cnet.com/tech/tech-industry/ios-6-map-mess-was-no-big-surprise-to-apple
-https://www.cnet.com/tech/tech-industry/ios-6-map-mess-was-no-big-surprise-to-apple/
 
 https://www.theverge.com/2012/9/20/3363914/wrong-turn-apple-ios-6-maps-phone-5-buggy-complaints
 
